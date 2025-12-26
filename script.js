@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    fetch('https://<your-api>.onrender.com/api/invoice/1')
+    fetch('https://https://displayinvoice.onrender.com/swagger')
 
         .then(resp => {
             if (!resp.ok) {
